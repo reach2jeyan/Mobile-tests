@@ -1,0 +1,4 @@
+emulator1: --tags @emulator1 --format json --out report.json --format pretty
+emulator2: --tags @emulator2 --format json --out report.json --format pretty
+emulator3: --tags @emulator3 --format json --out report.json --format pretty
+
